@@ -9,14 +9,25 @@
 
 ---
 
-### 🛠 Core Skills
-- **Languages:** Python, MySQL, Java (Basics)
-- **AI/ML & Data Science:** Scikit-learn, Regression, NLP, Pandas, NumPy, Matplotlib
-- **Tools & Web:** Flask, Firebase, Git, Jupyter Notebook, Google Colab
-- **Soft Skills:** Time Management, Professional Communication, Problem Solving
+- ### 🛠 Core Skills
+
+**Languages & Databases**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Data Science & AI**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Web & Tools**
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
 ### 🌟 Featured Projects
 
 #### 🌡️ Weather Prediction System
@@ -42,3 +53,6 @@
 - **LinkedIn:** [linkedin.com/in/keerthika-mangalanathan](https://linkedin.com/in/keerthika-mangalanathan)
 - **Email:** keerthikam13012005@gmail.com
 - **Location:** Erode, Tamil Nadu, India
+
+
+
