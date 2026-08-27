@@ -133,7 +133,7 @@ With a strong foundation in **Python, PyTorch, Scikit-learn, Power BI, and SQL**
 > **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib, Regression Algorithms  
 * Developed a predictive regression model forecasting atmospheric humidity and temperature based on historical trends.
 * 🏆 **Performance:** Delivered over **85% predictive accuracy**.  
-📁 [`[View Repository]`](https://github.com/keerthika13012005)
+📁 [`[View Repository]`](https://github.com/keerthika13012005/Weather-Prediction-System)
 
 ---
 
