@@ -88,7 +88,7 @@ With a strong foundation in **Python, PyTorch, Scikit-learn, Power BI, and SQL**
 ### 📚 7. Intelligent Real-Time Book Recommendation Engine
 > **Tech Stack:** Flask, Firebase, Python NLP, Collaborative Filtering  
 * Designed a real-time recommendation engine combining user sentiment feedback loops with collaborative filtering.  
-📁 [`[View Repository]`](https://github.com/keerthika13012005)
+📁 [`[View Repository]`](https://github.com/keerthika13012005/Book-Recommendation-System-Using-Collaborative-Filtering-Sentiment-Analysis)
 
 ---
 
