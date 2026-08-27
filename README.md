@@ -46,7 +46,7 @@ With a strong foundation in **Python, PyTorch, Scikit-learn, Power BI, and SQL**
 * Preprocessed imaging datasets with **CLAHE & Normalization** to maximize feature extraction.
 * 🏆 **Performance:** Achieved **99.2% Validation Accuracy** and **0.82 Mean AUC**.
 * 📖 *Presented at RASET 2026 National Conference (ISBN: 978-93-5812-163-6).*  
-📁 [`[View Repository]`](https://github.com/keerthika13012005)
+📁 [`[View Repository]`]((https://github.com/keerthika13012005/Early-Lung-Disease-Prediction-Treatment-Recommendation-System)
 
 ---
 
